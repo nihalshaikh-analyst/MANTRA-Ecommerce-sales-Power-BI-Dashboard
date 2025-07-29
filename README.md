@@ -54,7 +54,7 @@ Utilized various customized visualizations such as bar charts, donut charts, clu
 
 
 
-## Insights ## :
+## Insights:
 
 1) Maximum profit earned by Maharashtra State followed by Madhya Pradesh.
 
