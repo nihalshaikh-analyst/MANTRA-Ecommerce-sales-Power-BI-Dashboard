@@ -4,7 +4,7 @@ Mantra Ecommerce sales data collecting, cleaning, processing, analyzing, and dat
 
 **Project Objective**
 
-The primary objective of this project was to assist the owner of Mantra Ecommerce sales in gaining insights into their online sales data. By leveraging Power BI, we aim to provide an interactive dashboard that offers insights into sales performance, customer behavior, and regional trends. By creating an interactive and visually appealing dashboard, we aimed to provide a tool to make data-driven decisions and enhance their online sales strategy.
+The primary objective of this project was to assist the Mantra Ecommerce sales in gaining insights into their online sales data. By leveraging Power BI, we aim to provide an interactive dashboard that offers insights into sales performance, customer behavior, and regional trends. By creating an interactive and visually appealing dashboard, we aimed to provide a tool to make data-driven decisions and enhance their online sales strategy.
 
 
 
